@@ -1,7 +1,9 @@
 Changes
+eg/redirect.pl
+eg/shorten.pl
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
+META.yml
 README
 Shorten.pm
 test.pl
-META.yml                                Module meta-data (added by MakeMaker)

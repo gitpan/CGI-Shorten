@@ -1,4 +1,4 @@
-# $Id: test.pl,v 1.1.1.1 2003/09/09 04:50:53 cvspub Exp $
+# $Id: test.pl,v 1.2 2003/09/09 07:23:48 cvspub Exp $
 use Test::More qw(no_plan);
 ok(1);
 BEGIN{ use_ok 'CGI::Shorten'; }

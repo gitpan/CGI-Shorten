@@ -1,9 +1,8 @@
-# $Id: Shorten.pm,v 1.1.1.1 2003/09/09 04:50:53 cvspub Exp $
+# $Id: Shorten.pm,v 1.4 2003/09/10 07:28:54 cvspub Exp $
 
 package CGI::Shorten;
 use strict;
-our $VERSION = '0.01';
-
+our $VERSION = '0.02';
 
 use CGI;
 our $cgi = new CGI;
